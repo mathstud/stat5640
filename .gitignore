@@ -1,0 +1,10 @@
+# OS junk
+.DS_Store
+
+# Large embeddings
+Hybrid-Approach/GloVe-Embeddings/*.txt
+
+# Generated outputs
+Hybrid-Approach/Hybrid-Clustering/*.csv
+Hybrid-Approach/Dependency-Parsing/*.csv
+
